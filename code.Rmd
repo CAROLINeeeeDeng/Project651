@@ -1,9 +1,3 @@
----
-title: "BIOSTAT 651 final project"
-author: "Kalpana Das"
-date: "2024-04-11"
-output: html_document
----
 Effect of marriage on the efficacy of interventions designed to increase mammography screening
 
 ```{r setup, include=FALSE}
